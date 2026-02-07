@@ -1,19 +1,17 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8">
-  <title>GoodbyeDPI Türkçe</title>
-</head>
-<body>
-  <h1>GoodbyeDPI Türkçe</h1>
-  <p>İnternette sansürü aşmak için GoodbyeDPI aracının Türkçe sayfasına hoş geldiniz.</p>
+# GoodbyeDPI Türkçe
 
-  <h2>İndir</h2>
-  <a href="https://github.com/ValdikSS/GoodbyeDPI/releases/latest/download/GoodbyeDPI.zip">
-    GoodbyeDPI'yi indir
-  </a>
+Bu depo, **GoodbyeDPI** aracının Türkçe tanıtım sayfasını içerir.  
+GitHub Pages üzerinden yayınlanan siteye buradan ulaşabilirsiniz:  
+👉 [Siteyi aç](https://34rolex73.github.io/goodbyedpi-turk)
 
-  <h2>Kullanım</h2>
-  <p>Dosyaları indirdikten sonra çalıştırabilirsiniz.</p>
-</body>
-</html>
+## İndir
+GoodbyeDPI'nin en son sürümünü buradan indirebilirsiniz:  
+[GoodbyeDPI.zip](https://github.com/ValdikSS/GoodbyeDPI/releases/latest/download/GoodbyeDPI.zip)
+
+## Kullanım
+1. Dosyayı indirin.  
+2. Arşivi açın.  
+3. Çalıştırarak kullanmaya başlayın.  
+
+## Katkı
+Hataları bildirmek veya geliştirmelere katkı sağlamak için **Issues** bölümünü kullanabilirsiniz.
